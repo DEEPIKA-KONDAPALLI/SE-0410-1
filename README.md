@@ -1,4 +1,4 @@
-# Software_engineering-0410-
+# SE-0410-1
 SE lab programs 
 #lab -1
 1. Implement weather modeling* using the quadratic solution in stages: hard-coding variables
